@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Profile Launcher",
     "description": "Quick launch to my portfolio",
     "version": "1.0.0",
